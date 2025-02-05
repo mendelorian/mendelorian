@@ -1,5 +1,5 @@
 # 👋 Welcome to my Github page!
-My name is Mendel Hung and I am a web developer!
+My name is Mendel Hung and I am a full stack web developer!
 
 <!---
 - 👀 I’m interested in ...
